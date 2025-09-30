@@ -1,17 +1,3 @@
-fields: [
-  defineField({
-    name: 'title',
-    title: 'Title',
-    type: 'string',
-    group: 'content',
-  }),
-  defineField({
-    name: 'favicon',
-    title: 'Favicon',
-    type: 'image',
-    group: 'content',
-  }),
-//import path from 'path';
 import { defineStackbitConfig } from '@stackbit/types';
 import { SanityContentSource } from '@stackbit/cms-sanity';
 import { allModelExtensions } from './.stackbit/models';
