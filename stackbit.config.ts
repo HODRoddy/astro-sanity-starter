@@ -1,3 +1,4 @@
+import path from 'path';
 import { defineStackbitConfig } from '@stackbit/types';
 import { SanityContentSource } from '@stackbit/cms-sanity';
 import { allModelExtensions } from './.stackbit/models';
