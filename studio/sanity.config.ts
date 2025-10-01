@@ -10,7 +10,6 @@ export default defineConfig({
 
 projectId: 'ejzsdy46',
 dataset: 'production',
-
   plugins: [structureTool(), visionTool(), markdownSchema()],
 
   schema: {
