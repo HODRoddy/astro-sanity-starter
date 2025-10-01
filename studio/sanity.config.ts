@@ -9,8 +9,7 @@ export default defineConfig({
   title: 'Astro Sanity Starter',
 
 projectId: 'ejzsdy46',
-  dataset: 'production',
-
+dataset: 'production',
   plugins: [structureTool(), visionTool(), markdownSchema()],
 
   schema: {
