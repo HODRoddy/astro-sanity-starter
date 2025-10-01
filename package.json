@@ -23,7 +23,7 @@
         "marked": "^15.0.4",
         "tailwindcss": "^4.0.9"
     },
- "devDependencies": {
+"devDependencies": {
     "@astrojs/tailwind": "^5.1.0",
     "@sanity/export": "^3.38.1",
     "@sanity/import": "^3.37.4",
@@ -31,4 +31,5 @@
     "@stackbit/types": "^2.0.0",
     "configstore": "7.0.0",
     "daisyui": "^5.0.0"
+  }
 }
